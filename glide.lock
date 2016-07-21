@@ -1,0 +1,6 @@
+hash: 750961e22974d54a50875e8deb2a2fa21c61caa8a46eb6352da5d1940a5264c5
+updated: 2016-07-22T07:24:44.574650674+09:00
+imports:
+- name: github.com/sevlyar/go-daemon
+  version: 3bf5e993af87194518e81cf9a81c1c53190a8911
+devImports: []
